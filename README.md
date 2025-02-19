@@ -14,5 +14,13 @@ A modern weather application that fetches real-time weather data using an API an
 ✅ Bonus: Displays **hourly** and **7-day** weather forecast  
 
 🖼️ Screenshots 
-![Home Page] (home.png)
+![Home Page] (https://github.com/Apoorva-VB/weather/blob/main/home.png)
 ![Details page] (https://github.com/Apoorva-VB/weather/blob/main/details.png)
+
+⚡ Tech Stack  
+- **React.js** with Hooks (`useState`, `useEffect`)  
+- **React Router** for navigation  
+- **Tailwind CSS** for styling  
+- **OpenWeatherMap API** for weather data  
+
+💡 Live Demo: apoorva-weather-app.netlify.app
