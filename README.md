@@ -23,4 +23,4 @@ A modern weather application that fetches real-time weather data using an API an
 - **Tailwind CSS** for styling  
 - **OpenWeatherMap API** for weather data  
 
-💡 Live Demo: apoorva-weather-app.netlify.app
+💡 Live Demo: (apoorva-weather-app.netlify.app)
