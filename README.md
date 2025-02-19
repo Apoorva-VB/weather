@@ -14,5 +14,5 @@ A modern weather application that fetches real-time weather data using an API an
 ✅ Bonus: Displays **hourly** and **7-day** weather forecast  
 
 🖼️ Screenshots 
-![Home Page] (https://github.com/Apoorva-VB/weather/blob/main/home.png)
+![Home Page] (home.png)
 ![Details page] (https://github.com/Apoorva-VB/weather/blob/main/details.png)
